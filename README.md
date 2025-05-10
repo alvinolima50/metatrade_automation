@@ -1,5 +1,5 @@
 # README file
-readme_text = """
+
 # Futures_SR_Toolkit 📈
 
 **Futures_SR_Toolkit.mq5** é um indicador para **MetaTrader 5** projetado para contratos futuros (índices, commodities, moedas, energia).  
@@ -55,8 +55,6 @@ O indicador plota níveis de preço considerados essenciais para operações int
 - **Níveis semanais** reforçam contextos de rompimento mais amplo.
 
 Combine estes níveis com price action, volume ou seus indicadores favoritos para decisões de maior probabilidade em futuros.
-"""
-with open('/mnt/data/Futures_SR_Toolkit_README.md','w',encoding='utf-8') as f:
-    f.write(readme_text)
-print("README saved.")
+
+
 
