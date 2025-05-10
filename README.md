@@ -1,8 +1,8 @@
 # README file
 
-# Futures_SR_Toolkit 📈
+# SupportResistanceAI.ex5 📈
 
-**Futures_SR_Toolkit.mq5** é um indicador para **MetaTrader 5** projetado para contratos futuros (índices, commodities, moedas, energia).  
+**SupportResistanceAI.ex5** é um indicador para **MetaTrader 5** projetado para contratos futuros (índices, commodities, moedas, energia).  
 O indicador plota níveis de preço considerados essenciais para operações intraday e swing, evitando excesso de linhas no gráfico.
 
 ---
