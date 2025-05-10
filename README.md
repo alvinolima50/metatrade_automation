@@ -1,4 +1,4 @@
-# create README file
+# README file
 readme_text = """
 # Futures_SR_Toolkit 📈
 
