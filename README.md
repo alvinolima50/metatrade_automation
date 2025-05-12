@@ -42,6 +42,13 @@ Este indicador identifica e desenha níveis de suporte e resistência em timefra
 | StyleH1 | Estilo das linhas H1 | STYLE_SOLID |
 | StyleMarket | Estilo das linhas de mercado | STYLE_DASH |
 
+2. Extraia apenas os níveis de preço dos seguintes buffers:
+   - H4_Support_Resistance[] (Buffer 0) - todos os níveis importantes no timeframe H4
+   - H1_Support_Resistance[] (Buffer 1) - todos os níveis importantes no timeframe H1
+   - MarketOpenBuffer[] (Buffer 2) - preços de abertura dos últimos dias
+   - MarketCloseBuffer[] (Buffer 3) - preços de fechamento dos últimos dias
+   - MarketHighBuffer[] (Buffer 4) - preços máximos dos últimos dias
+   - MarketLowBuffer[] (Buffer 5) - preços mínimos dos últimos dias
 ## Buffers do Indicador
 
 O indicador disponibiliza os seguintes buffers para acesso externo:
